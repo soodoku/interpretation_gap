@@ -4,7 +4,7 @@
 
 How big are the gaps between what Democrats and Republicans know about politics? We assemble 162,083 responses to 187 knowledge items on 47 surveys. The average partisan gap is six points, and about 30% of gaps run in the direction opposite to the one expected. Most question features do not predict gap size. The exception is vague response options, which let respondents read the answers through their own partisanship and inflate the gap. Where gaps exist, they look more like motivated responding than real differences in factual knowledge.
 
-Related: [partisan-gaps](https://github.com/finite-sample/partisan-gaps) (how survey instruments and scoring change the gap) and [unclear_gap](https://github.com/finite-sample/unclear_gap) (partisan cues and evaluations of the same economic figures).
+Related: [know_pgap_format](https://github.com/finite-sample/know_pgap_format) (how survey instruments and scoring change the gap) and [know_pgap_cues](https://github.com/finite-sample/know_pgap_cues) (partisan cues and evaluations of the same economic figures).
 
 ## Manuscript
 
